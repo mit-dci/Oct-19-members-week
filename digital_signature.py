@@ -2,6 +2,7 @@ import json
 
 import nacl.signing
 import nacl.encoding
+#!pip install pynacl
 
 print("")
 print("Keys")
