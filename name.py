@@ -1,6 +1,6 @@
 def say_my_name(name):
-    print("Say my name: " + name)
-    print(f"Say my name with interpolation: {name}")
+    print("Hello! " + name)
+    print(f"Hello {name}! (with interpolation)")
 
 my_name = input("Enter your name: ")
 
